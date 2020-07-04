@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-<?php
-
-echo "Solucionando conflictos";
-
-?>
-=======
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,7 +5,7 @@ echo "Solucionando conflictos";
 	<title>Curso GIT KODOTI</title>
 </head>
 <body>
-	
+	<h1>Titulo editado desde Github</h1>
 </body>
 </html>
->>>>>>> actualizando
+
